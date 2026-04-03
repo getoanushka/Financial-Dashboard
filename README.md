@@ -38,6 +38,10 @@ Run the project:
 npm run dev
 🎯 Purpose
 
+## 🌐 Live Demo
+
+https://financial-dashboard-rust-ten.vercel.app
+
 This project demonstrates frontend development skills including UI design, responsiveness, and data visualization using modern web technologies.
 
 👩‍💻 Author
