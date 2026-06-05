@@ -1,20 +1,20 @@
-# 💰 Financial Dashboard
+#  Financial Dashboard
 
 A modern React-based financial dashboard built using Vite, designed to provide a clean and interactive interface for managing and visualizing financial data.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📊 Dashboard overview with key financial metrics  
-- 💳 Transaction management (add, view, manage records)  
-- 📈 Interactive charts for spending analysis  
-- 📱 Fully responsive design (mobile + desktop)  
-- ✨ Smooth and user-friendly UI  
+- Dashboard overview with key financial metrics  
+-  Transaction management (add, view, manage records)  
+-  Interactive charts for spending analysis  
+-  Fully responsive design (mobile + desktop)  
+-  Smooth and user-friendly UI  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js  
 - Vite  
@@ -24,7 +24,7 @@ A modern React-based financial dashboard built using Vite, designed to provide a
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. Clone the repository:
 ```bash
@@ -36,15 +36,15 @@ Install dependencies:
 npm install
 Run the project:
 npm run dev
-🎯 Purpose
+ Purpose
 
-## 🌐 Live Demo
+## Live Demo
 
 https://financial-dashboard-rust-ten.vercel.app
 
 This project demonstrates frontend development skills including UI design, responsiveness, and data visualization using modern web technologies.
 
-👩‍💻 Author
+ Author
 
 Anushka Srivastava
 1. Clone the repository:
